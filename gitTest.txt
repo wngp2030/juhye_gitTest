@@ -4,3 +4,6 @@ Testing Git. Hopefully this works.
 If not, no idea...
 
 This works!!!! (add message)
+
+Alternative gitTest
+Let's find out if this works too....
